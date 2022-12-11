@@ -5,8 +5,7 @@
 ### Project Title
 bikeshare 
 ### Description
-Describe what your project is about and what it does
-
+Explore US Bikeshare Data 
 ### Files used
 chicago , new york ciyu , washington
 ### Credits
