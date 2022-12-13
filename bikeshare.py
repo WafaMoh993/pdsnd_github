@@ -155,7 +155,7 @@ def dispaly_data(df):
     index=0
     user_input=input ("Do you like to display 5 rows of row data ? enter yes or no ").lower()
     if user_input not in ['yes','no']:
-        print ('please enter yes or no')
+        print ('please choose yes or no')
         user_input=input ("Do you like to display 5 rows of row data ? enter yes or no ").lower()
     elif user_input != 'yes':
         print('Thank you')
