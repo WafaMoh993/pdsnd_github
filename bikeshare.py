@@ -32,8 +32,13 @@ def get_filters():
             print ("invalid input")
             
 
+<<<<<<< HEAD
     # TO DO: get user input for day of week (all, monday, tuesday,wednsday ... sunday)
     days = ["sunday","monday","tuesday","wednsday","thurday","friday","satarday","all"]
+=======
+    # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
+    days = ["sunday","monday","tuesday","wednsday","thurday","friday","satarday","all"]
+>>>>>>> origin/refactoring
     while True:
         day = input("choose a day :(sunday,monday,tuesday,wednsday,thurday,friday,satarday,all) ").lower()
         if day in days :
